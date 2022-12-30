@@ -1,6 +1,6 @@
 # Infisnipe
 
-A simple bot for snipe and edit snipe messages.
+A simple bot for snipe deleted messages and edited messages.
 
 # Info
 
